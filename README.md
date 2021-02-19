@@ -1,7 +1,7 @@
 # ask-a-questions
 
-https://question-practice-app.web.app/
-http://question-practice-app.firebaseapp.com/
+1)https://question-practice-app.web.app/
+2)http://question-practice-app.firebaseapp.com/
 
 
 Marian Dudych
